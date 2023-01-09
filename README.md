@@ -1,12 +1,23 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif"  width="200">
+	<h1>Hi there, I'm Shariy Ivan 👋</h1>
+  	<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif"  width="200">
 <div align="center" >
-	<a href="https://t.me/Sharyy_iv">
+	<a href="https://vk.com/siv90">
+		<img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk.com"/>
+	</a>	
+  	<a href="https://t.me/Sharyy_iv">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
+	<a href="mailto:sharyy.iv1990@mail.ru">
+		<img src="https://img.shields.io/badge/sharyy.iv1990@mail.ru-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="mail"/>
+	</a>
+	<a href="mailto:sharyy.iv1990@пmail.сщь">
+		<img src="https://img.shields.io/badge/sharyy.iv1990@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+	</a>
 </div>  
-  <h1>Hi there, I'm Ivan 👋</h1>
 
+***
+	
 </div>
 
 ###	I'm frontend developer from Russia.

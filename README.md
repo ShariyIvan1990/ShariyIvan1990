@@ -17,9 +17,6 @@
 	
 </div>
 
-###	I'm frontend developer from Russia.
-
-### :hammer_and_wrench: Languages and tools:
 
 
            
